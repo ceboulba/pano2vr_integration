@@ -4,7 +4,7 @@ import "./style.css";
 //import other files
 import "pano2vr_player.js";
 import {pano2vrSkin} from "skin.js";
-import"/webvr/three.min.js";
+import"./webvr/three.min.js";
 import "./webvr/webvr-polyfill.min.js";
 
 const container = document.querySelector("#container");
